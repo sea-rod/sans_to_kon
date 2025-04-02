@@ -1,0 +1,9 @@
+/train_en_es
+/train_en_pt
+Sentence pairs in English-Portuguese - 2025-02-23.tsv
+Sentence pairs in Spanish-English - 2025-02-22.tsv
+*.vec
+eng_span.pkl
+eng_port.pkl
+/indic_nlp_library
+
